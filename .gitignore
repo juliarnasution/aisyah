@@ -1,7 +1,8 @@
-/payment/
-/foto_banner/
-/foto_produk/
-/foto_info/
-/header/
-/files/
-/tinymcpuk/gambar/
+payment/
+foto_banner/
+foto_produk/
+foto_info/
+header/
+files/
+tinymcpuk/gambar/
+*.jpg
