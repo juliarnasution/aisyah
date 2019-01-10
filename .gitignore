@@ -1,8 +1,8 @@
-payment/
-foto_banner/
-foto_produk/
-foto_info/
-header/
-files/
-tinymcpuk/gambar/
+payment/*.jpg
+foto_banner/*.jpg
+foto_produk/*.jpg
+foto_info/*.jpg
+header/*.jpg
+files/*.jpg
+tinymcpuk/gambar/*.jpg
 *.jpg
